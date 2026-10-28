@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aiways is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://ai-ways.eu/
+Aiways is an electric vehicle manufacturer founded in 2017, producing the Aiways U5 SUV and U6 crossover. The company focuses on affordable, fully electric cars with modern design, advanced safety features, and a commitment to sustainable mobility. Based in Europe, Aiways offers a range of services including vehicle sales, service partners, and a support portal.
+
+**Areas:** Company · Electric Vehicles · Automotive · EV · Mobility · Manufacturer
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ai-ways.eu/)
+- [Documentation](https://ai-ways.eu/)
+- [Support](https://ai-ways.eu/support/)
+- [Terms of service](https://ai-ways.eu/imprint/)
+- [Privacy policy](https://ai-ways.eu/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aiways/](https://apis.io/providers/aiways/).
